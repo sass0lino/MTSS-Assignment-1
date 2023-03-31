@@ -4,3 +4,4 @@
 # Inventario
 
 - [Processori](./processori.md)
+- [Schede madri](./schede_madri.md)
